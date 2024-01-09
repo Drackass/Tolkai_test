@@ -154,7 +154,7 @@ http://localhost:5000
 }
 ```
 
-For more API documentation, refer to [@API_DOC.md](API_DOC.md).
+For more API documentation, refer to [@API_DOC.md](@API_DOC.md).
 
 ## Sources
 
@@ -162,4 +162,4 @@ For more API documentation, refer to [@API_DOC.md](API_DOC.md).
 - [PERN Stack Course - Postgres, Express, React, and Node](https://youtu.be/ldYcgPKEZC8?si=xngmuIdCEMX2i_y4) By **freeCodeCamp**
 - [TypeScript Tutorial #1 - Introduction & Setup](https://youtu.be/2pZmKW9-I_k?si=nDUil9Yh_Ah-zfdF) By **Net Ninja**
 
-For detailed setup instructions, refer to [@SETUP.md](SETUP.md).
+For detailed setup instructions, refer to [@SETUP.md](@SETUP.md).
