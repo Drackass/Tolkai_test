@@ -60,8 +60,8 @@ Make sure you have Node.js and PostgreSQL installed on your machine.
 Clone the project from GitHub:
 
 ```bash
-git clone https://github.com/your-username/your-project.git
-cd your-project
+git clone git@github.com:Drackass/Tolkai_test.git
+cd Tolkai_test
 ```
 
 #### Install dependencies

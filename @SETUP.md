@@ -7,8 +7,8 @@ Clone the project from GitHub
 
 ```bash
 
-git clone https://github.com/...
-cd ...
+git clone git@github.com:Drackass/Tolkai_test.git
+cd Tolkai_test
 ```
 
 ## Install dependencies
